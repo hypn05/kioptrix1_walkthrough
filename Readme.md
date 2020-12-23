@@ -41,5 +41,5 @@ Domain=[MYGROUP] OS=[Unix] Server=[Samba 2.2.1a]
 The version seems to be outdated
 
 ## Exploit
-For Apache we can use: OpenFuck.c exploit
-For samba we can use Samba < 2.2.8 (Linux/BSD) - Remote Code Execution https://www.exploit-db.com/exploits/10
+* For Apache we can use: OpenFuck.c exploit
+* For samba we can use Samba < 2.2.8 (Linux/BSD) - Remote Code Execution https://www.exploit-db.com/exploits/10
